@@ -1,0 +1,108 @@
+"Survived","Pclass","Sex","Age","Embarked","FamilySize"
+"Yes",1,"female","Middle-aged","C",1
+"Yes",1,"female","Middle-aged","S",1
+"Yes",3,"female","Young adult","S",2
+"Yes",2,"female","Young adult","S",1
+"No",3,"female","Teen","S",7
+"No",1,"male","Young adult","S",0
+"No",2,"male","Middle-aged","S",1
+"No",1,"male","Young adult","S",1
+"No",3,"male","Middle-aged","S",0
+"No",3,"male","Young adult","S",0
+"Yes",2,"female","Middle-aged","S",0
+"No",1,"male","Middle-aged","S",1
+"No",3,"male","Teen","S",0
+"No",1,"male","Young adult","C",0
+"Yes",3,"female","Young adult","S",1
+"No",3,"female","Child","S",4
+"No",2,"male","Senior","S",0
+"No",1,"male","Senior","C",1
+"No",3,"male","Young adult","S",0
+"No",1,"male","Senior","C",0
+"No",3,"male","Child","S",6
+"No",2,"female","Young adult","S",0
+"Yes",3,"female","Young adult","S",0
+"No",3,"male","Young adult","S",0
+"No",2,"male","Teen","S",0
+"No",3,"male","Young adult","C",0
+"Yes",1,"female","Middle-aged","C",0
+"Yes",2,"female","Middle-aged","S",1
+"Yes",3,"male","Child","S",6
+"Yes",1,"female","Senior","S",1
+"Yes",1,"female","Middle-aged","S",0
+"Yes",3,"male","Young adult","S",0
+"No",3,"male","Teen","S",0
+"Yes",3,"male","Young adult","S",0
+"Yes",3,"female","Young adult","Q",0
+"No",3,"female","Young adult","S",0
+"No",2,"female","Young adult","S",2
+"No",3,"male","Young adult","S",0
+"No",1,"male","Young adult","S",1
+"Yes",1,"female","Middle-aged","C",0
+"Yes",3,"male","Middle-aged","S",0
+"No",2,"male","Young adult","S",0
+"No",3,"female","Middle-aged","C",1
+"Yes",1,"male","Young adult","C",1
+"Yes",1,"female","Middle-aged","S",1
+"No",3,"male","Young adult","S",2
+"No",3,"male","Young adult","S",0
+"No",2,"male","Young adult","S",0
+"No",3,"female","Young adult","S",1
+"Yes",2,"female","Teen","S",2
+"No",3,"female","Young adult","S",2
+"No",3,"female","Young adult","S",4
+"Yes",2,"female","Young adult","S",0
+"Yes",3,"female","Child","C",3
+"No",1,"male","Young adult","C",0
+"Yes",2,"female","Middle-aged","S",0
+"Yes",1,"male","Middle-aged","S",0
+"No",1,"male","Middle-aged","S",0
+"No",2,"male","Middle-aged","S",1
+"No",3,"male","Young adult","S",1
+"Yes",1,"female","Middle-aged","S",1
+"No",3,"female","Young adult","S",0
+"Yes",1,"female","Young adult","C",2
+"No",1,"male","Senior","S",0
+"No",2,"male","Young adult","S",0
+"No",3,"male","Young adult","S",2
+"Yes",3,"male","Middle-aged","S",0
+"Yes",1,"female","Middle-aged","S",1
+"No",3,"male","Middle-aged","S",0
+"Yes",1,"male","Middle-aged","C",0
+"Yes",1,"female","Middle-aged","S",0
+"No",3,"male","Middle-aged","S",0
+"No",3,"male","Young adult","C",1
+"Yes",1,"male","Middle-aged","S",1
+"Yes",1,"male","Senior","S",0
+"No",3,"male","Young adult","S",0
+"Yes",1,"male","Middle-aged","C",1
+"No",3,"female","Teen","Q",0
+"No",3,"male","Young adult","S",0
+"No",3,"male","Teen","S",0
+"Yes",2,"female","Child","S",1
+"No",3,"male","Teen","S",1
+"No",2,"male","Young adult","S",1
+"Yes",1,"female","Young adult","C",4
+"No",1,"male","Senior","S",2
+"No",1,"male","Teen","S",1
+"Yes",3,"male","Child","S",1
+"No",3,"male","Middle-aged","S",0
+"Yes",1,"female","Middle-aged","S",3
+"No",3,"male","Middle-aged","S",0
+"No",3,"male","Teen","S",0
+"No",3,"male","Child","Q",5
+"No",1,"male","Middle-aged","C",0
+"Yes",3,"female","Middle-aged","S",0
+"No",3,"male","Middle-aged","S",0
+"No",3,"male","Middle-aged","S",0
+"Yes",3,"male","Young adult","S",0
+"No",3,"male","Young adult","S",0
+"No",2,"male","Young adult","S",0
+"Yes",2,"female","Young adult","C",1
+"Yes",3,"male","Child","S",2
+"No",1,"male","Middle-aged","S",0
+"No",3,"male","Middle-aged","S",0
+"Yes",2,"female","Young adult","C",1
+"No",3,"male","Teen","S",0
+"No",3,"male","Young adult","S",0
+"No",2,"male","Young adult","S",0
